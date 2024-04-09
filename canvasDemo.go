@@ -4,7 +4,7 @@ import (
 	"math"
 	"strconv"
 
-	"github.com/anoshenko/rui"
+	"github.com/ruraomsk/rui"
 )
 
 const canvasDemoText = `

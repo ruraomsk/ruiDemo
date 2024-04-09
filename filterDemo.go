@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/anoshenko/rui"
+	"github.com/ruraomsk/rui"
 )
 
 const filterDemoText = `

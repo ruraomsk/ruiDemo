@@ -4,7 +4,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/anoshenko/rui"
+	"github.com/ruraomsk/rui"
 )
 
 func keyEventHandle(view rui.View, event rui.KeyEvent, tag string) {

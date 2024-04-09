@@ -5,7 +5,7 @@ import (
 	"math"
 	"time"
 
-	"github.com/anoshenko/rui"
+	"github.com/ruraomsk/rui"
 )
 
 const controlsDemoText = `

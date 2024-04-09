@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/anoshenko/rui"
+	"github.com/ruraomsk/rui"
 )
 
 const gridLayoutDemoText = `

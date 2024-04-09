@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/anoshenko/rui"
+	"github.com/ruraomsk/rui"
 )
 
 const pointerEventsDemoText = `

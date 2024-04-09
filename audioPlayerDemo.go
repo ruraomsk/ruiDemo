@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/anoshenko/rui"
+	"github.com/ruraomsk/rui"
 )
 
 const audioPlayerDemoText = `

@@ -1,6 +1,6 @@
 package main
 
-import "github.com/anoshenko/rui"
+import "github.com/ruraomsk/rui"
 
 const tableViewDemoText = `
 GridLayout {
